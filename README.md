@@ -12,10 +12,10 @@
 
 🌐 Life Snapshot
 
-- Languages Spoken: 
+- Languages : 
   - Romanian
   - English
-- Age: 17
+- Age: 19
 
 💻 Coding Expertise
 
@@ -39,13 +39,6 @@
   - Visual Studio Code
   - VS Code 2022
 
-
-🚀 Projects
-
-- Future projects:
-  - Hcaptcha Unflagged Solver
-  - Facebook/Twitter Account Generator
-  - AIO Bruteforcer (+70 Sites)
 
 
 ```
