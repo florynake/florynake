@@ -22,14 +22,11 @@
 - Languages:
   - Expert: 
     - Python
-    - HTML & CSS
     - GO
   - Intermediate:
     - JavaScript
-    - C++
-  - Learning:
-    - Assembly
-    - Rust
+
+
 
 
 
