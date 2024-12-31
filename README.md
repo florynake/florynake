@@ -1,16 +1,65 @@
-<img src="https://github-readme-stats.vercel.app/api?username=florynake&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raz461's GitHub stats" style="height: 200px;" />
+![Header](./1.png)
 
-<!--
-**florynake/florynake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">florynake</h1>
+<a href="https://shock.lol/florynake"></a>
+<a href="https://discord.gg/rayxservices"></a>
 
-Here are some ideas to get you started:
+```
+📬 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Discord  : discord.gg/rayxservices
+
+🌐 Life Snapshot
+
+- Languages Spoken: 
+  - Romanian
+  - English
+- Age: 17
+
+💻 Coding Expertise
+
+- Languages:
+  - Expert: 
+    - Python
+    - HTML & CSS
+    - GO
+  - Intermediate:
+    - JavaScript
+    - C++
+  - Learning:
+    - Assembly
+    - Rust
+
+
+
+🔧 Development Environment
+
+- IDE:
+  - Visual Studio Code
+  - VS Code 2022
+
+
+🚀 Projects
+
+- Future projects:
+  - Hcaptcha Unflagged Solver
+  - Facebook/Twitter Account Generator
+  - AIO Bruteforcer (+70 Sites)
+
+
+```
+<br>
+<h2 align="center">Skills </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=H4cK3dR4Du&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
+</p>
+
+![Footer](./2.png)
