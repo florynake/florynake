@@ -15,7 +15,7 @@
 - Languages : 
   - Romanian
   - English
-- Age: 19
+- Age: 21
 
 💻 Coding Expertise
 
